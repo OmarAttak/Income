@@ -1,2 +1,3 @@
 # Income
-## U.S. income analysis in relation to education and social status.
+## U.S. income analysis .
+### the relation between education, married status and wage per hour.
